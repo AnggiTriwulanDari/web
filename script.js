@@ -1,3 +1,4 @@
+
 gebi=function(id) { return document.getElementById(id);};
 log=console.log.bind(window.console);
 
