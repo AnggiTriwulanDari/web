@@ -117,7 +117,7 @@ footer:{
 id:'post',
 css:'col-1-3',
 data:[
-{id:1,facebook:'facebook',icon:'facebook'},
+{id:1,nama:'facebook',icon:'facebook'},
 {id:1,nama:'twitter',icon:'twitter'},
 {id:1,nama:'instagram',icon:'instagram'},
 ]
