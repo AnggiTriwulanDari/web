@@ -27,9 +27,9 @@ about:{
 id:'about',
 css:'col-1-3',
 data:[
-{id:1,nama:'BASIC',icon:'facebook'},
-{id:1,nama:'PRO',icon:'twitter'},
-{id:1,nama:'PERFORMANCE',icon:'whatsapp'},
+{id:1,nama:'facebook',icon:'facebook'},
+{id:1,nama:'twitter',icon:'twitter'},
+{id:1,nama:'whatsapp',icon:'whatsapp'},
 
 ]
 },
